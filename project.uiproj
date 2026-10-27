@@ -1,0 +1,6 @@
+{
+  "Name": "SampleProcess_GITIntegration",
+  "ProjectType": "Process",
+  "Description": "Again creating for notes purpose",
+  "MainFile": "Main.xaml"
+}
